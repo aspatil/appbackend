@@ -1,4 +1,3 @@
-<!-- includes/class-miror-controller.php -->
 <?php
 class Miror_Controller {
 
