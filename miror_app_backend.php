@@ -3,7 +3,6 @@
  * Plugin Name: Miror App Backend
  * Description: Backend API for the Miror Mobile App using WordPress REST API
  * Version: 1.0.0
- * Author: Anand Patil
  */
 
 define('MIROR_PLUGIN_DIR', plugin_dir_path(__FILE__));
